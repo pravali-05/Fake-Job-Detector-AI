@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Kummetha Pravallika </p>
+    <p><strong>Email ID:</strong> pravallikag6genai@gmail.com </p>
+    <p><strong>College Name:</strong> Raghu Engineering College </p>
+    <p><strong>Branch/Specialization :</strong> Computer Science and Engineering </p>
+    <p><strong>College ID:</strong> 23981A05L2 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Generative AI - Foundation of Applications </p>
+    <p><strong>Instructor Name:</strong> Sreekanth S </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Sreekanth S </p>
+<p><strong>Trainer Email ID:</strong> sreesubu77@gmail.com </p>
+<p><strong>Trainer Designation:</strong> AI Engineer </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,53 +63,26 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+Through this internship, I gained a strong understanding of Generative AI and its real-world applications. I learned the fundamentals of Generative AI, Large Language Models (LLMs), prompt engineering, and AI-based application development. I also explored how AI models can be used to generate and process text, understand user queries, and solve real-world problems. By working on projects and practical activities, I improved my problem-solving, programming, and technical skills. This internship also helped me understand how Generative AI can be integrated into practical applications and motivated me to further develop my skills in Artificial Intelligence and Machine Learning
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> Fake Job Detector AI </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Fake Job Detector AI </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  The Fake Job Detector AI project focuses on identifying potentially fraudulent
+  or suspicious job postings using Artificial Intelligence and Machine Learning
+  techniques. The project aims to help users distinguish between genuine and
+  potentially fake job opportunities by analyzing information from job postings.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/pravali-05/Fake-Job-Detector-AI/blob/main/SURE%20Trust%20project%20document%20.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -117,42 +90,45 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Python Documentation](https://docs.python.org/3/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Google AI](https://ai.google.com/)
+
 ---
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+LST and SST sessions helped me improve both my technical and professional skills. Through these sessions, I developed better communication, teamwork, problem-solving, and time-management skills. I learned how to approach real-world problems, present my ideas clearly, and work effectively with others. The sessions also helped me improve my confidence, professional behaviour, and ability to adapt to new situations. Overall, LST and SST helped me understand the importance of combining technical knowledge with soft skills for personal and professional growth.
+
 ---
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in community-oriented activities such as tree plantation and serving senior citizens. Through the tree plantation activity, I learned the importance of protecting the environment and contributing to a greener and healthier society. By serving senior citizens, I understood the importance of respect, care, patience, and empathy towards others. These activities helped me develop a sense of social responsibility, teamwork, and compassion. Overall, these experiences taught me that contributing to the community is an important part of personal and professional growth.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+  Visakhapatnam
+- **Tree Plantation Drive** – Participated in a tree plantation activity by planting trees and contributing to environmental improvement. This experience helped me understand the importance of protecting nature and maintaining a greener environment.
 
-<!-- you can write impacts according to your experience in your words-->
+  Visakhapatnam
+- **Helping Elder Citizens** – Assisted senior citizens with their basic needs and provided support where needed. This activity helped me develop patience, empathy, respect, and a sense of social responsibility. 
+
+**Impact**
+
+These community service activities gave me an opportunity to contribute to society while developing important values such as teamwork, responsibility, empathy, and compassion. They also helped me understand that small contributions can create a positive impact on the community.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+Visakhapatnam
+* Actively participated in tree plantation and contributed to creating a greener and healthier environment.
+* Helped promote awareness about the importance of protecting nature and maintaining clean surroundings.
+* Provided assistance and support to senior citizens, helping them with their basic needs.
+* Developed empathy, patience, communication, coordination, and a stronger sense of social responsibility through these activities.
+* Learned the importance of contributing to the community and supporting people in need.
+
 
 ### **Photos**
 
